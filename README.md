@@ -19,8 +19,6 @@ This project is a deep dive into:
 - Program execution (`execve`) and `PATH` resolution
 - Proper error handling and process synchronization (`wait`/`waitpid`)
 
-**Status:** Solo project — mandatory part only, no bonus (no multiple pipes, no `here_doc`).
-
 ## Instructions
 
 ### Compilation
